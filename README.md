@@ -1,42 +1,34 @@
-<h1 align="center">
+# Hussein Ghaddar
 
-👋 Hi There, I'm Hussein Ghaddar
-</h1>
+**Software developer · Mobile, web & full-stack · Lebanon**
 
-<h3 align="center">A Software Developer From Lebanon</h3>
+I build practical software across mobile apps, web products, and the systems behind them. My work includes Android development at Kailyra, a delivery platform co-developed at Wassi, and a perfume ecommerce product I designed and built for Rawaj Perfumery.
 
+I also work on the technical operations of Venom Gaming Lounge, where software and infrastructure meet the daily needs of a real business.
 
-<br/>
+[LinkedIn](https://www.linkedin.com/in/hussein-ghaddar/) · [Email](mailto:h.r.ghaddar@gmail.com)
 
+## Selected work
 
-<div align="center"> 
-  <a href="mailto:h.r.ghaddar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/hussein-ghaddar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  
-</div>
+| Project | My contribution | Technologies |
+| --- | --- | --- |
+| **Rawaj Perfumery** | Sole full-stack developer and UI/UX designer. Built a storefront, product search and filters, cart and checkout, a fragrance quiz, and admin tooling. | React, Vite, Firebase |
+| **Wassi** | Co-developed a delivery platform with one partner, working across mobile apps, frontend, admin tools, integrations, and backend contributions. | Flutter, Dart, Firebase, REST APIs |
+| **Livra · Kailyra** | Android application UI, API integration, debugging, and collaboration on product logic. | Kotlin, Jetpack Compose, Retrofit, FCM |
+| **Venom Gaming Lounge** | Business software and technical operations, supporting workflows, systems, and day-to-day troubleshooting. | TypeScript, Next.js, Firebase |
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,html,css,vscode,github,bash,figma,git,latex" />
-    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,nodejs,python,dart,javascript,typescript,php,java,mysql" /><br>
-</div>
+These repositories are private. The descriptions here summarize my work without publishing client or organization source code.
 
-<br/>
-<hr/>
+## Public projects
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <a href="http://www.github.com/HusseinGhaddar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HusseinGhaddar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</div>
+- **[Sarf-AI](https://github.com/HusseinGhaddar/Sarf-AI)** — An experimental Arabic إعراب analyzer exploring NLP models and grammatical rules with Python, Flask, Stanza, and CAMeL Tools. In development; grammatical accuracy is not established.
+- **[EventExplorer](https://github.com/HusseinGhaddar/EventExplorer)** — A React Native event discovery app with city and keyword search, event details, persistent favorites, and theme preferences, using the Ticketmaster Discovery API.
 
-<br/><br/>
+## Tools I work with
 
-<hr/>
+- **Mobile:** Kotlin, Jetpack Compose, Flutter, Dart, React Native
+- **Web:** React, TypeScript, JavaScript, Next.js, Vite
+- **Backend & data:** Firebase, Cloud Firestore, REST APIs, Python, SQL
+- **Workflow:** Git, Android Studio, VS Code, UI/UX design
+
+I'm interested in useful AI and data-driven products, language tools, and software that solves concrete problems.
